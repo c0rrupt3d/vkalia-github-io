@@ -169,6 +169,7 @@ a {
   .about {
     padding: 0;
     padding-top: 110px;
+    overflow-y: scroll;
   }
 }
 
@@ -209,6 +210,7 @@ a {
 @media (max-width: 576px) {
   .project {
     width: 100%;
+    overflow-y: scroll;
   }
 }
 
