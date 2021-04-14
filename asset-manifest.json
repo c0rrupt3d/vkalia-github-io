@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vkalia-github-io/static/css/main.c96a68ff.chunk.css",
-    "main.js": "/vkalia-github-io/static/js/main.e6b57fb1.chunk.js",
-    "main.js.map": "/vkalia-github-io/static/js/main.e6b57fb1.chunk.js.map",
-    "runtime-main.js": "/vkalia-github-io/static/js/runtime-main.441adf55.js",
-    "runtime-main.js.map": "/vkalia-github-io/static/js/runtime-main.441adf55.js.map",
-    "static/css/2.a7a85ca3.chunk.css": "/vkalia-github-io/static/css/2.a7a85ca3.chunk.css",
-    "static/js/2.2418dd01.chunk.js": "/vkalia-github-io/static/js/2.2418dd01.chunk.js",
-    "static/js/2.2418dd01.chunk.js.map": "/vkalia-github-io/static/js/2.2418dd01.chunk.js.map",
-    "index.html": "/vkalia-github-io/index.html",
-    "static/css/2.a7a85ca3.chunk.css.map": "/vkalia-github-io/static/css/2.a7a85ca3.chunk.css.map",
-    "static/css/main.c96a68ff.chunk.css.map": "/vkalia-github-io/static/css/main.c96a68ff.chunk.css.map",
-    "static/js/2.2418dd01.chunk.js.LICENSE.txt": "/vkalia-github-io/static/js/2.2418dd01.chunk.js.LICENSE.txt",
-    "static/media/VKW.jpg": "/vkalia-github-io/static/media/VKW.4fb2290b.jpg",
-    "static/media/abstract.png": "/vkalia-github-io/static/media/abstract.25242abf.png",
-    "static/media/main.css": "/vkalia-github-io/static/media/logo_op.0c69e75d.png"
+    "main.css": "/static/css/main.cd422a73.chunk.css",
+    "main.js": "/static/js/main.e6b57fb1.chunk.js",
+    "main.js.map": "/static/js/main.e6b57fb1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55d85f24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55d85f24.js.map",
+    "static/css/2.a7a85ca3.chunk.css": "/static/css/2.a7a85ca3.chunk.css",
+    "static/js/2.2418dd01.chunk.js": "/static/js/2.2418dd01.chunk.js",
+    "static/js/2.2418dd01.chunk.js.map": "/static/js/2.2418dd01.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a7a85ca3.chunk.css.map": "/static/css/2.a7a85ca3.chunk.css.map",
+    "static/css/main.cd422a73.chunk.css.map": "/static/css/main.cd422a73.chunk.css.map",
+    "static/js/2.2418dd01.chunk.js.LICENSE.txt": "/static/js/2.2418dd01.chunk.js.LICENSE.txt",
+    "static/media/VKW.jpg": "/static/media/VKW.4fb2290b.jpg",
+    "static/media/abstract.png": "/static/media/abstract.25242abf.png",
+    "static/media/main.css": "/static/media/logo_op.0c69e75d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.441adf55.js",
+    "static/js/runtime-main.55d85f24.js",
     "static/css/2.a7a85ca3.chunk.css",
     "static/js/2.2418dd01.chunk.js",
-    "static/css/main.c96a68ff.chunk.css",
+    "static/css/main.cd422a73.chunk.css",
     "static/js/main.e6b57fb1.chunk.js"
   ]
 }
