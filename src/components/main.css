@@ -41,7 +41,7 @@ a {
 }
 
 .visible_navbar {
-  opacity: 100%;
+  /* opacity: 100%; */
   visibility: visible;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
