@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vkalia-github-io/static/css/main.a775f8e5.chunk.css",
+    "main.css": "/vkalia-github-io/static/css/main.c96a68ff.chunk.css",
     "main.js": "/vkalia-github-io/static/js/main.e6b57fb1.chunk.js",
     "main.js.map": "/vkalia-github-io/static/js/main.e6b57fb1.chunk.js.map",
     "runtime-main.js": "/vkalia-github-io/static/js/runtime-main.441adf55.js",
@@ -10,7 +10,7 @@
     "static/js/2.2418dd01.chunk.js.map": "/vkalia-github-io/static/js/2.2418dd01.chunk.js.map",
     "index.html": "/vkalia-github-io/index.html",
     "static/css/2.a7a85ca3.chunk.css.map": "/vkalia-github-io/static/css/2.a7a85ca3.chunk.css.map",
-    "static/css/main.a775f8e5.chunk.css.map": "/vkalia-github-io/static/css/main.a775f8e5.chunk.css.map",
+    "static/css/main.c96a68ff.chunk.css.map": "/vkalia-github-io/static/css/main.c96a68ff.chunk.css.map",
     "static/js/2.2418dd01.chunk.js.LICENSE.txt": "/vkalia-github-io/static/js/2.2418dd01.chunk.js.LICENSE.txt",
     "static/media/VKW.jpg": "/vkalia-github-io/static/media/VKW.4fb2290b.jpg",
     "static/media/abstract.png": "/vkalia-github-io/static/media/abstract.25242abf.png",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.441adf55.js",
     "static/css/2.a7a85ca3.chunk.css",
     "static/js/2.2418dd01.chunk.js",
-    "static/css/main.a775f8e5.chunk.css",
+    "static/css/main.c96a68ff.chunk.css",
     "static/js/main.e6b57fb1.chunk.js"
   ]
 }
